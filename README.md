@@ -38,8 +38,10 @@ It uses strong cryptographic encryption to protect your data.
 ```bash
 git clone https://github.com/Mohan-10-15/file-encryptor.git
 ### 2️⃣ Navigate to project folder
+```bash
 cd file-encryptor
 ### 3️⃣ Install required package
+```bash
 pip install cryptography
 ▶️ How to Run
 python file_encryptor_gui.py
