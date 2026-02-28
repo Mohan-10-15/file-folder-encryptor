@@ -34,7 +34,7 @@ It uses strong cryptographic encryption to protect your data.
 ## 📦 Installation
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/Mohan-10-15/file-encryptor.git
+git clone https://github.com/Mohan-10-15/file-encryptor
 ### 2️⃣ Navigate to project folder
 cd file-encryptor
 ### 3️⃣ Install required package
