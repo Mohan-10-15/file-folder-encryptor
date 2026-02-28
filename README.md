@@ -77,5 +77,3 @@ This project is open-source and free to use.
 
 Created by Mohan
 GitHub: https://github.com/Mohan-10-15
-
-Python Developer 🚀
